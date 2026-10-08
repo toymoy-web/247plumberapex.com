@@ -233,3 +233,5 @@ footer.sitefoot .legal{margin-top:28px;padding-top:20px;border-top:1px solid var
   footer.sitefoot .wrap{grid-template-columns:1fr}
   .hero h1{font-size:30px}
 }
+
+.pgimg{margin:0 0 22px}.pgimg img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:16px;border:1px solid var(--line)}
